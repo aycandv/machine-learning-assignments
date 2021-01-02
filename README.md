@@ -1,1 +1,2 @@
-# KU ENGR 421 (Introduction to Machine Learning) Assignments
+# Machine Learning Assignments
+KU Fall 2020 - ENGR 421
